@@ -1,0 +1,9 @@
+{
+  "language": "",
+  "main": "./contracts/GemCaveToken.sol",
+  "deploy": "./build/contracts/GemCaveToken.sol",
+  "compilers": {
+    "truffle": "v5.1.61",
+    "solc": "0.8.4"
+  }
+}
