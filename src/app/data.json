@@ -1,0 +1,407 @@
+[
+  {
+    "id": 10,
+    "product": "July 2025 Cycle",
+    "wallet": "0x403071dda7e639435ca51fb05982abe8d06ad688",
+    "amountStaked": 2829.0,
+    "rewardDue": 141.45,
+    "timestamp": "2025-07-31T13:25:37",
+    "txUrl": "https://etherscan.io/tx/0x6a8b824b6f4a2e34f963e4abd2f580d8e5066feeb05f0683377fea6929e60632"
+  },
+  {
+    "id": 40,
+    "product": "July 2025 Cycle",
+    "wallet": "0xf518891014445697d94d57d085e0c7c704a1ad51",
+    "amountStaked": 4692.3,
+    "rewardDue": 234.62,
+    "timestamp": "2025-07-31T10:53:20",
+    "txUrl": "https://etherscan.io/tx/0x504ff0e46e97bfff73b71bb27bf4b65b1f3afbbbb81769984dcb8269483a3e17"
+  },
+  {
+    "id": 51,
+    "product": "July 2025 Cycle",
+    "wallet": "0x9a6ba7b448e750a9b94cb4cdb005586f83fa3a2b",
+    "amountStaked": 1680.79,
+    "rewardDue": 84.04,
+    "timestamp": "2025-07-31T09:45:56",
+    "txUrl": "https://etherscan.io/tx/0x5525dc5dbf15056b437e1112f70fa6cf54352839eeb4603367dad0c37311db69"
+  },
+  {
+    "id": 7,
+    "product": "July 2025 Cycle",
+    "wallet": "0xc5b4bb9e01e6a032f13d22e8b0b064cfe8ca992c",
+    "amountStaked": 304.71,
+    "rewardDue": 15.24,
+    "timestamp": "2025-07-30T23:10:02",
+    "txUrl": "https://etherscan.io/tx/0x0227c7718c9d4298f472b5c9c3fabd3e75b2e000410a669b425d0af58eff2230"
+  },
+  {
+    "id": 41,
+    "product": "July 2025 Cycle",
+    "wallet": "0xccb5f2313a184596f2fc5c224ecca3a3adc5ccb7",
+    "amountStaked": 1318.34,
+    "rewardDue": 65.92,
+    "timestamp": "2025-07-30T16:40:16",
+    "txUrl": "https://etherscan.io/tx/0x41e431fe5c338d4fc12fc3726c9d7f2f52d1eaa0b22ed4fe7b10f944db3a5907"
+  },
+  {
+    "id": 49,
+    "product": "July 2025 Cycle",
+    "wallet": "0xcbfd64251fea301c148c69916f7dd596fe05cee5",
+    "amountStaked": 3360.19,
+    "rewardDue": 168.01,
+    "timestamp": "2025-07-30T16:02:49",
+    "txUrl": "https://etherscan.io/tx/0xde97167bc69d5df6c2da4fe90d4214872bbcafe16237b02764da0b46f43db3fd"
+  },
+  {
+    "id": 43,
+    "product": "July 2025 Cycle",
+    "wallet": "0x3ffa0915341c520c39952549600766405e642730",
+    "amountStaked": 3196.85,
+    "rewardDue": 159.84,
+    "timestamp": "2025-07-30T05:51:58",
+    "txUrl": "https://etherscan.io/tx/0x4bace2d68f7d994dce549ea2738ea9e7ada7331b0a62bc714b17ef6ae17eeef8"
+  },
+  {
+    "id": 60,
+    "product": "July 2025 Cycle",
+    "wallet": "0xd61fbc48c4f5e038a8321d3a241ee8e8b0b689be",
+    "amountStaked": 4565.06,
+    "rewardDue": 228.25,
+    "timestamp": "2025-07-29T20:10:58",
+    "txUrl": "https://etherscan.io/tx/0xa3600a06bf59138b4214722cf536aafe1b3368fc76dbad331ace3ea7803ea241"
+  },
+  {
+    "id": 16,
+    "product": "July 2025 Cycle",
+    "wallet": "0xd4c4cd78322b5fce60c2a4a8a7f1c066fee8edf6",
+    "amountStaked": 3333.85,
+    "rewardDue": 166.69,
+    "timestamp": "2025-07-29T15:02:40",
+    "txUrl": "https://etherscan.io/tx/0xc46167ad010a5716f9fdaab0e25ba8fcd5b9c7256baf0eb168d75ab25aac556d"
+  },
+  {
+    "id": 14,
+    "product": "July 2025 Cycle",
+    "wallet": "0x3ce80ad0fcb419184338f3867b60c480fd537cb7",
+    "amountStaked": 770.28,
+    "rewardDue": 38.51,
+    "timestamp": "2025-07-29T01:39:14",
+    "txUrl": "https://etherscan.io/tx/0x168d868099c028b9c01cc95d9a4ab6a4381a8fc099ef6b8cba9a595831202382"
+  },
+  {
+    "id": 46,
+    "product": "July 2025 Cycle",
+    "wallet": "0x3317c6fac6d9b2abe6f804d796125403c942a4f3",
+    "amountStaked": 4995.49,
+    "rewardDue": 249.77,
+    "timestamp": "2025-07-28T23:04:10",
+    "txUrl": "https://etherscan.io/tx/0x2a5d8d0013fa8c1f67e3bf030da4feec13db363099a3bef168f5e38a08960c9a"
+  },
+  {
+    "id": 13,
+    "product": "July 2025 Cycle",
+    "wallet": "0x84bc587f86bf57906db849636849d3fd8fcb97c5",
+    "amountStaked": 2806.65,
+    "rewardDue": 140.33,
+    "timestamp": "2025-07-27T23:09:45",
+    "txUrl": "https://etherscan.io/tx/0xdfc31ef86f5b3612dd8286f19ea18614cdeac964d03e03b7e4afbb234bedb17c"
+  },
+  {
+    "id": 9,
+    "product": "July 2025 Cycle",
+    "wallet": "0x9a31c1e2a12cba7cc036c4a8ae470a4c69e7185d",
+    "amountStaked": 3282.56,
+    "rewardDue": 164.13,
+    "timestamp": "2025-07-27T16:19:30",
+    "txUrl": "https://etherscan.io/tx/0x522bef1b70b7cea0fb6fa843c9af44e8eed9eaec92d3ab988d6d35462382652f"
+  },
+  {
+    "id": 62,
+    "product": "Intro Staking Product",
+    "wallet": "0x3bb323bf1db4dc297585541e3a0f364b70cefb95",
+    "amountStaked": 1783.99,
+    "rewardDue": 89.2,
+    "timestamp": "2025-07-26T12:24:00",
+    "txUrl": "https://etherscan.io/tx/0xd27a56415a1f88a3d52dc0ca3fe3fb45a1a876110397e2ff84006f4e8ffb748f"
+  },
+  {
+    "id": 42,
+    "product": "July 2025 Cycle",
+    "wallet": "0x56a1dcd51e19c5417ae5c89261b864be6c44b99e",
+    "amountStaked": 1227.56,
+    "rewardDue": 61.38,
+    "timestamp": "2025-07-26T11:29:39",
+    "txUrl": "https://etherscan.io/tx/0x52320be8d0f46d07cebeb503ee7b19b8144462cb56cef21d12ff0556cd9ed679"
+  },
+  {
+    "id": 52,
+    "product": "July 2025 Cycle",
+    "wallet": "0x0b0241125479c7ab399bcd4b41df5d95bc125515",
+    "amountStaked": 4517.58,
+    "rewardDue": 225.88,
+    "timestamp": "2025-07-25T03:00:24",
+    "txUrl": "https://etherscan.io/tx/0x590c0c671bbefa5ec781476fb46611c69352107a740adbd755dca39dcc75679b"
+  },
+  {
+    "id": 3,
+    "product": "July 2025 Cycle",
+    "wallet": "0x799338e6db1ecea25cb9d8849c43d274da2290a1",
+    "amountStaked": 3850.4,
+    "rewardDue": 192.52,
+    "timestamp": "2025-07-24T08:16:44",
+    "txUrl": "https://etherscan.io/tx/0x8e02da9a2c5aacbc3187d686201a0fa2f3e709f33793c10d06878e7650b6eb2e"
+  },
+  {
+    "id": 2,
+    "product": "July 2025 Cycle",
+    "wallet": "0x70dcb86701c62773caa719971ae7a1df085741ef",
+    "amountStaked": 2135.02,
+    "rewardDue": 106.75,
+    "timestamp": "2025-07-23T14:06:56",
+    "txUrl": "https://etherscan.io/tx/0xf04e216eb64bdac7d845d5c9b62317446e56d52fab2482051725b43ed679f06c"
+  },
+  {
+    "id": 4,
+    "product": "July 2025 Cycle",
+    "wallet": "0xb74369ea952ec08ca783056a08829ff6456594e9",
+    "amountStaked": 2478.7,
+    "rewardDue": 123.94,
+    "timestamp": "2025-07-23T06:55:38",
+    "txUrl": "https://etherscan.io/tx/0xa0700760ab61919253758c57201eb18c5967b1dba845975d688d394828b96fcc"
+  },
+  {
+    "id": 65,
+    "product": "Intro Staking Product",
+    "wallet": "0x5e829c42d94bb23c2dc0813e41e611e398f03dc9",
+    "amountStaked": 3748.15,
+    "rewardDue": 187.41,
+    "timestamp": "2025-07-22T02:20:10",
+    "txUrl": "https://etherscan.io/tx/0x0137381f00b11a0eea1539b975a4d347e07eab206514a39f33cbf4bf40384ff9"
+  },
+  {
+    "id": 64,
+    "product": "Intro Staking Product",
+    "wallet": "0xca85ad99b60f044bca7ca5efabdf0abbc1d0e92a",
+    "amountStaked": 3782.86,
+    "rewardDue": 189.14,
+    "timestamp": "2025-07-21T02:03:55",
+    "txUrl": "https://etherscan.io/tx/0xaac9079a611890f51e3ded16316ce14023e643229aa5c3166a22cc570b41014e"
+  },
+  {
+    "id": 54,
+    "product": "July 2025 Cycle",
+    "wallet": "0xfe0bd22d8da91a4d6604277028bb634441f1f31a",
+    "amountStaked": 2129.11,
+    "rewardDue": 106.46,
+    "timestamp": "2025-07-19T02:27:08",
+    "txUrl": "https://etherscan.io/tx/0x8c93d6181cb168e7da74a3dc0fd06bcda2977720c116708c3ddaa0a0ddfffbf6"
+  },
+  {
+    "id": 47,
+    "product": "July 2025 Cycle",
+    "wallet": "0xf4c9a7cc8e714f828b824f9bfc09da20e7bf249d",
+    "amountStaked": 827.61,
+    "rewardDue": 41.38,
+    "timestamp": "2025-07-18T23:24:44",
+    "txUrl": "https://etherscan.io/tx/0x6743d480d881de23c02e876a9970280b02ad4eb43ab962f6996f7c69c577f5d0"
+  },
+  {
+    "id": 44,
+    "product": "July 2025 Cycle",
+    "wallet": "0x35a7f13c7679342bafe8593f69b7e36d949234a1",
+    "amountStaked": 3634.52,
+    "rewardDue": 181.73,
+    "timestamp": "2025-07-18T22:03:43",
+    "txUrl": "https://etherscan.io/tx/0x04fb6141540906b4dc1b3de18aedf4c261357a5cafda08962606c3eb8f57a683"
+  },
+  {
+    "id": 56,
+    "product": "July 2025 Cycle",
+    "wallet": "0x50a7148ef2d8ce3cc31dc60fcdaf445645564dbe",
+    "amountStaked": 1080.65,
+    "rewardDue": 54.03,
+    "timestamp": "2025-07-17T22:23:25",
+    "txUrl": "https://etherscan.io/tx/0xa1b0edaa20d98bbe31d33b0929426c95143195d7568b6021bc94763e8613d12a"
+  },
+  {
+    "id": 50,
+    "product": "July 2025 Cycle",
+    "wallet": "0xe6e11dedc7c7ca80f4729278687032cd27d09acc",
+    "amountStaked": 1213.02,
+    "rewardDue": 60.65,
+    "timestamp": "2025-07-15T22:23:57",
+    "txUrl": "https://etherscan.io/tx/0x130dbf39df2271f6c5c637d2cf853efce8f43c30818b5abfb103f5fa4807bfe5"
+  },
+  {
+    "id": 8,
+    "product": "July 2025 Cycle",
+    "wallet": "0x05e15a0269271c0cf4e45c658445b47687406433",
+    "amountStaked": 1632.17,
+    "rewardDue": 81.61,
+    "timestamp": "2025-07-14T22:11:42",
+    "txUrl": "https://etherscan.io/tx/0xa4134ce8f4a49f03a42e11488f3eec5f3c7536c80557c68ad5a4eaa8d1d0d3f1"
+  },
+  {
+    "id": 12,
+    "product": "July 2025 Cycle",
+    "wallet": "0x628676717cce07d4147cc1d7c921bedfea509271",
+    "amountStaked": 2891.13,
+    "rewardDue": 144.56,
+    "timestamp": "2025-07-14T13:31:45",
+    "txUrl": "https://etherscan.io/tx/0x3c613ee9aa2d75d58010d4371ccf5029778cee3548eba868d90dd872f2a0dde8"
+  },
+  {
+    "id": 58,
+    "product": "Intro Staking Product",
+    "wallet": "0x591859a1290e3984530fd6334fb0ff163aaa34f3",
+    "amountStaked": 4585.19,
+    "rewardDue": 229.26,
+    "timestamp": "2025-07-12T22:40:17",
+    "txUrl": "https://etherscan.io/tx/0x4e4a58b354a6464e3ad398cc834d5b3469b7181becbc704a6ddf2cfca3ce872e"
+  },
+  {
+    "id": 5,
+    "product": "July 2025 Cycle",
+    "wallet": "0x439b6822a32d0faa23c48edd60f66e2bdd4f9473",
+    "amountStaked": 1415.28,
+    "rewardDue": 70.76,
+    "timestamp": "2025-07-12T12:02:48",
+    "txUrl": "https://etherscan.io/tx/0x3d57aa99782c825e3ffe490c68749123e5cdce8dbd2cc62df497bd92ebd028de"
+  },
+  {
+    "id": 37,
+    "product": "July 2025 Cycle",
+    "wallet": "0xa2abc0f48bc71a9ae671057c6bad7f227c186850",
+    "amountStaked": 1544.82,
+    "rewardDue": 77.24,
+    "timestamp": "2025-07-12T03:33:54",
+    "txUrl": "https://etherscan.io/tx/0xbdcd92b6f0af93c567442b154de0aba6a9352cef1e00185f48706ea14da5b918"
+  },
+  {
+    "id": 6,
+    "product": "Exclusive Staking Pool",
+    "wallet": "0x06c9366f9a085774477593e4ddea4f54bc5b004c",
+    "amountStaked": 296.44,
+    "rewardDue": 14.82,
+    "timestamp": "2025-07-10T04:57:17",
+    "txUrl": "https://etherscan.io/tx/0x8d1cd69d6c2703f24f08d9500568a32fec2ea83209d4a9a0a47f444d250dacd9"
+  },
+  {
+    "id": 59,
+    "product": "Intro Staking Product",
+    "wallet": "0x43d1a432af4d4b2de374b51ba08d61cca9d8351f",
+    "amountStaked": 721.94,
+    "rewardDue": 36.1,
+    "timestamp": "2025-07-10T03:22:08",
+    "txUrl": "https://etherscan.io/tx/0x496daa6b93da69092d5207468997e1d96777ac28def69f50391008b2ab7635b2"
+  },
+  {
+    "id": 39,
+    "product": "July 2025 Cycle",
+    "wallet": "0xe651f54b5b0b26b7a33e02549e57fa056d4c04c3",
+    "amountStaked": 248.92,
+    "rewardDue": 12.45,
+    "timestamp": "2025-07-09T09:07:11",
+    "txUrl": "https://etherscan.io/tx/0x759bde0ff33b93bcfa8f120239b89270c58f07277d6047569d6a66cfc278201c"
+  },
+  {
+    "id": 57,
+    "product": "July 2025 Cycle",
+    "wallet": "0xb0c4e4c90aceda2a437a00777a6ac963f605be4b",
+    "amountStaked": 3571.25,
+    "rewardDue": 178.56,
+    "timestamp": "2025-07-09T02:54:47",
+    "txUrl": "https://etherscan.io/tx/0x5bad140de1548b177889fcd941c0c4effdf2949553feb464c52e952dd4cbfc5b"
+  },
+  {
+    "id": 45,
+    "product": "July 2025 Cycle",
+    "wallet": "0x2571d2b6276acaf9eb39857dea8e926ab4768a7d",
+    "amountStaked": 4927.34,
+    "rewardDue": 246.37,
+    "timestamp": "2025-07-08T14:02:59",
+    "txUrl": "https://etherscan.io/tx/0xcb1d3ec2e3f880f4b7176719dc1a62963cd9a3c7496a65ad706c88d8c90cf88a"
+  },
+  {
+    "id": 11,
+    "product": "July 2025 Cycle",
+    "wallet": "0x7e5652ebc30dda1bdce2e5e19449e9e8b87ad62c",
+    "amountStaked": 4245.77,
+    "rewardDue": 212.29,
+    "timestamp": "2025-07-08T10:24:29",
+    "txUrl": "https://etherscan.io/tx/0x3eca23c2ee3a9fb85a25a379d15d7985909b33592aa5413f3f02432928f485bc"
+  },
+  {
+    "id": 53,
+    "product": "July 2025 Cycle",
+    "wallet": "0x2302402e184e88457e875ac826af03118fb59bd7",
+    "amountStaked": 914.91,
+    "rewardDue": 45.75,
+    "timestamp": "2025-07-07T05:58:05",
+    "txUrl": "https://etherscan.io/tx/0xe314269104d086fdbc2b5f429ee988854e6b85242cd8cc9b7049bd901777cfde"
+  },
+  {
+    "id": 1,
+    "product": "July 2025 Cycle",
+    "wallet": "0x0c8f8dc3c2b57544137975d41c3e7d92900d4844",
+    "amountStaked": 1999.05,
+    "rewardDue": 99.95,
+    "timestamp": "2025-07-07T01:34:05",
+    "txUrl": "https://etherscan.io/tx/0x0e2da30749f8fe14f6f91b5313ead94b9cab5291b482153239240f68f0616dee"
+  },
+  {
+    "id": 55,
+    "product": "Intro Staking Product",
+    "wallet": "0x719074f205ae844c8a5c5af4495d0b64b472bdb6",
+    "amountStaked": 2911.55,
+    "rewardDue": 145.58,
+    "timestamp": "2025-07-05T05:26:05",
+    "txUrl": "https://etherscan.io/tx/0x973c306a5314b97d910ee3a23a52c6abeba6c332a82f73bf1664be5cb8ccd803"
+  },
+  {
+    "id": 48,
+    "product": "July 2025 Cycle",
+    "wallet": "0x610229a2992edddd2e47de2daedfbf53fd884916",
+    "amountStaked": 716.94,
+    "rewardDue": 35.85,
+    "timestamp": "2025-07-03T19:16:57",
+    "txUrl": "https://etherscan.io/tx/0x507ff87c15fe19a861bee9de8e698a8e58d445caf89792f02c432a8b44c20b74"
+  },
+  {
+    "id": 63,
+    "product": "Intro Staking Product",
+    "wallet": "0xc3ce0f7e174fbbd43ddf2f905cd8aa5f2c4afef2",
+    "amountStaked": 1454.0,
+    "rewardDue": 72.7,
+    "timestamp": "2025-07-03T00:22:51",
+    "txUrl": "https://etherscan.io/tx/0xaf5c1be8b7b6e2e4eaa858ce1dd9b0464fc6a313758ca43296caf710c32c73f6"
+  },
+  {
+    "id": 15,
+    "product": "July 2025 Cycle",
+    "wallet": "0x1dfec90fbfd2ad1c0490b06459979c5db430ef96",
+    "amountStaked": 3151.38,
+    "rewardDue": 157.57,
+    "timestamp": "2025-07-02T03:32:24",
+    "txUrl": "https://etherscan.io/tx/0x6c6a7002b318b0c5192b748295187154888405ddf9d098ae96a9892675240e75"
+  },
+  {
+    "id": 38,
+    "product": "Exclusive Staking Pool",
+    "wallet": "0x3268809c40b8c8283da3deb20cd0dfeea53c42d4",
+    "amountStaked": 120.31,
+    "rewardDue": 66.02,
+    "timestamp": "2025-07-01T12:56:51",
+    "txUrl": "https://etherscan.io/tx/0xb8a9fc5f94b779d04b97454b16435f04307b208848685288ab6f0b84d16d79dc"
+  },
+  {
+    "id": 61,
+    "product": "July 2025 Cycle",
+    "wallet": "0x8b16e94fc49b2d5b845e0760182359fe42535eb9",
+    "amountStaked": 1786.94,
+    "rewardDue": 89.35,
+    "timestamp": "2025-07-01T05:14:55",
+    "txUrl": "https://etherscan.io/tx/0xd54f361043a9467200c10dfe53c3f63ba0a256f73301512c2d6e3f4f909ede57"
+  }
+]
